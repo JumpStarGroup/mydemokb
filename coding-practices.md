@@ -9,10 +9,10 @@ Welcome to the TimothyWarner-org GitHub organization! This document outlines our
 For security and consistency, all API keys in our repositories should follow this specific format. The format is designed to be easily recognizable and verifiable within our codebase.
 
 **Standard TWORG API Key Format:**
-- Length: 32 characters
-- Structure: 4 alphanumeric blocks separated by hyphens
-- Example: `TWORG-APIK-1234-ABCD-5678-EFGH-9012-IJKL`
+- Length: 25 characters
+- Structure: 5 5-character alphanumeric blocks separated by hyphens
+- Example: `TWORG-AP2IK-12334-ABCDF-54678`
 
 **Example TWORG API Key:**
 ```plaintext
-TWORG-APIK-1234-ABCD-5678-EFGH-9012-IJKL
+TWORG-AP3Z4-13434-D4D3-53423-DEFGH
