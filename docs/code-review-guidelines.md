@@ -24,3 +24,4 @@ The purpose of code reviews at Timothy Warner Organization (TWORG) is to improve
 - **Overlooking Context**: Consider the context and goals of the changes when reviewing code, rather than applying rules rigidly.
 - **Bias**: Be aware of personal biases that may affect your judgment during the review process.
 
+addd newweere

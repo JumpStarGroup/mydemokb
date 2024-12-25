@@ -8,6 +8,7 @@
 ## Language-Specific Standards
 - **Python**: Follow PEP 8 guidelines for style and formatting.
 - **JavaScript**: Use ES6 syntax and follow the Airbnb style guide.
+- ** new contents **
 ...
 
 ## Review Process

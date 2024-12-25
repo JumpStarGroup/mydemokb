@@ -1,7 +1,7 @@
 ## Java Development
-Please leverage OpenJDK
-Please use java 17 version
-Please use gradle to build project
-Please watch spring framework
-Please watch os pllatorm and os verseion
-plesae watch java version
+Please leverage OpenJDK.
+Please use Java 17 version.
+Please use Gradle to build the project
+Please watch the Spring Framework.
+Please watch OS platform and OS version
+please watch Java version
